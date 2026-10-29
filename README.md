@@ -1,7 +1,9 @@
 # isaldin/homebrew-tap
 
 ```bash
-brew install --cask isaldin/tap/quill
+brew tap isaldin/tap
+brew trust isaldin/tap   # Homebrew 7+ requires trusting third-party taps
+brew install --cask quill
 ```
 
 | Cask | Description |
