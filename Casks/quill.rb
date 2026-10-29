@@ -1,6 +1,6 @@
 cask "quill" do
-  version "0.1.1"
-  sha256 "880a739ea7d860f4feb8e33ddeb6e7f1d65a30180b3811f22e67a9cb1a318638"
+  version "0.1.2"
+  sha256 "5817163616cf553a4e496cb3aaab8f3a9e5af8061bb063ea7f9debceb3fe016d"
 
   url "https://github.com/isaldin/quill/releases/download/v#{version}/Quill-#{version}.zip"
   name "Quill"
